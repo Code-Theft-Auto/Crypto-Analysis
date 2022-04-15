@@ -1,0 +1,4 @@
+pandas_datareader
+mplfinance
+matplotlib
+seaborn
